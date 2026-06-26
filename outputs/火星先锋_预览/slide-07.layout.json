@@ -1,0 +1,1208 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/weluki",
+    "id": "weluki",
+    "slide": 7,
+    "layoutId": "b37b1a7f-479c-4c58-b760-b501fe24c6f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "402b47f1-2248-4b24-8e5d-b38920d3aec3",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#070B13",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b37b1a7f-479c-4c58-b760-b501fe24c6f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "402b47f1-2248-4b24-8e5d-b38920d3aec3",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "402b47f1-2248-4b24-8e5d-b38920d3aec3",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/judg7ads",
+      "id": "1",
+      "bbox": [
+        64,
+        38,
+        620,
+        28
+      ],
+      "geometry": "rect",
+      "text": "MARS PIONEER | 初一航天机器人课程",
+      "textPreview": "MARS PIONEER | 初一航天机器人课程",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#00D5FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MARS PIONEER | 初一航天机器人课程"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MARS PIONEER | 初一航天机器人课程",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#00D5FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MARS PIONEER | 初一航天机器人课程",
+              "fontSize": 16,
+              "color": "#00D5FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/cfa9w3m9",
+      "id": "2",
+      "bbox": [
+        64,
+        78,
+        790,
+        56
+      ],
+      "geometry": "rect",
+      "text": "第二章：遥操作与执行",
+      "textPreview": "第二章：遥操作与执行",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第二章：遥操作与执行"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第二章：遥操作与执行",
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第二章：遥操作与执行",
+              "fontSize": 40,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1032lszq",
+      "id": "3",
+      "bbox": [
+        66,
+        136,
+        850,
+        34
+      ],
+      "geometry": "rect",
+      "text": "从手柄控制到机械臂采样任务",
+      "textPreview": "从手柄控制到机械臂采样任务",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "从手柄控制到机械臂采样任务"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "从手柄控制到机械臂采样任务",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "从手柄控制到机械臂采样任务",
+              "fontSize": 20,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/u18jqh0f",
+      "id": "4",
+      "bbox": [
+        64,
+        180,
+        1152,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#1D3446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/jm1cfa9w",
+      "id": "5",
+      "bbox": [
+        1030,
+        674,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "火星先锋课程大纲 · 07",
+      "textPreview": "火星先锋课程大纲 · 07",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#647487",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "火星先锋课程大纲 · 07"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "火星先锋课程大纲 · 07",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#647487",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "火星先锋课程大纲 · 07",
+              "fontSize": 13,
+              "color": "#647487",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "image",
+      "scope": "slide",
+      "aid": "im/hgn29gr2",
+      "id": "6",
+      "bbox": [
+        694,
+        126,
+        524,
+        436
+      ],
+      "geometry": "roundRect",
+      "alt": "等轴测渲染图",
+      "contentType": "image/png",
+      "imageFit": "cover",
+      "imageMask": {
+        "geometry": "roundRect",
+        "adjustmentList": [
+          {
+            "name": "adj",
+            "formula": "val 2752"
+          }
+        ]
+      },
+      "asset": {
+        "assetId": "2eb7272e-5771-4603-ab0e-6740fa46a821",
+        "contentType": "image/png",
+        "byteLength": 625445
+      }
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/1orytsvu",
+      "id": "7",
+      "bbox": [
+        86,
+        224,
+        62,
+        28
+      ],
+      "geometry": "rect",
+      "text": "L04",
+      "textPreview": "L04",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#2ED66F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L04"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L04",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#2ED66F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L04",
+              "fontSize": 18,
+              "color": "#2ED66F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/upwb2hwf",
+      "id": "8",
+      "bbox": [
+        162,
+        224,
+        222,
+        28
+      ],
+      "geometry": "rect",
+      "text": "蓝牙通讯与底盘遥控",
+      "textPreview": "蓝牙通讯与底盘遥控",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "蓝牙通讯与底盘遥控"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "蓝牙通讯与底盘遥控",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "蓝牙通讯与底盘遥控",
+              "fontSize": 19,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/nap4r65w",
+      "id": "9",
+      "bbox": [
+        392,
+        224,
+        274,
+        28
+      ],
+      "geometry": "rect",
+      "text": "手柄数据映射到轮速",
+      "textPreview": "手柄数据映射到轮速",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "手柄数据映射到轮速"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "手柄数据映射到轮速",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "手柄数据映射到轮速",
+              "fontSize": 16,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7u54zido",
+      "id": "10",
+      "bbox": [
+        162,
+        252,
+        500,
+        24
+      ],
+      "geometry": "rect",
+      "text": "作品：实现底盘遥控",
+      "textPreview": "作品：实现底盘遥控",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#2ED66F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "作品：实现底盘遥控"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "作品：实现底盘遥控",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#2ED66F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "作品：实现底盘遥控",
+              "fontSize": 15,
+              "color": "#2ED66F",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ed8bat47",
+      "id": "11",
+      "bbox": [
+        78,
+        286,
+        592,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#162635",
+      "lineWidth": 1
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l0rqd4vm",
+      "id": "12",
+      "bbox": [
+        86,
+        304,
+        62,
+        28
+      ],
+      "geometry": "rect",
+      "text": "L05",
+      "textPreview": "L05",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#2ED66F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L05"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L05",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#2ED66F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L05",
+              "fontSize": 18,
+              "color": "#2ED66F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wfyxobm5",
+      "id": "13",
+      "bbox": [
+        162,
+        304,
+        222,
+        28
+      ],
+      "geometry": "rect",
+      "text": "机械臂抓取",
+      "textPreview": "机械臂抓取",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "机械臂抓取"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "机械臂抓取",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "机械臂抓取",
+              "fontSize": 19,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/36hcrmhk",
+      "id": "14",
+      "bbox": [
+        392,
+        304,
+        274,
+        28
+      ],
+      "geometry": "rect",
+      "text": "舵机角度与预设姿态",
+      "textPreview": "舵机角度与预设姿态",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "舵机角度与预设姿态"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "舵机角度与预设姿态",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "舵机角度与预设姿态",
+              "fontSize": 16,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/eloj2t83",
+      "id": "15",
+      "bbox": [
+        162,
+        332,
+        500,
+        24
+      ],
+      "geometry": "rect",
+      "text": "作品：完成连续抓放任务",
+      "textPreview": "作品：完成连续抓放任务",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#2ED66F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "作品：完成连续抓放任务"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "作品：完成连续抓放任务",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#2ED66F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "作品：完成连续抓放任务",
+              "fontSize": 15,
+              "color": "#2ED66F",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/lc7u54zi",
+      "id": "16",
+      "bbox": [
+        78,
+        366,
+        592,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#162635",
+      "lineWidth": 1
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/wra5gbq1",
+      "id": "17",
+      "bbox": [
+        86,
+        384,
+        62,
+        28
+      ],
+      "geometry": "rect",
+      "text": "L06",
+      "textPreview": "L06",
+      "resolvedFontSize": 18,
+      "resolvedTextStyle": {
+        "fontSize": 18,
+        "typeface": "+mn-lt",
+        "color": "#2ED66F",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L06"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L06",
+          "resolvedTextStyle": {
+            "fontSize": 18,
+            "color": "#2ED66F",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L06",
+              "fontSize": 18,
+              "color": "#2ED66F",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7adsji5s",
+      "id": "18",
+      "bbox": [
+        162,
+        384,
+        222,
+        28
+      ],
+      "geometry": "rect",
+      "text": "采样空间协同",
+      "textPreview": "采样空间协同",
+      "resolvedFontSize": 19,
+      "resolvedTextStyle": {
+        "fontSize": 19,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "采样空间协同"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "采样空间协同",
+          "resolvedTextStyle": {
+            "fontSize": 19,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "采样空间协同",
+              "fontSize": 19,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/epkzupwb",
+      "id": "19",
+      "bbox": [
+        392,
+        384,
+        274,
+        28
+      ],
+      "geometry": "rect",
+      "text": "底盘粗定位+机械臂精抓取",
+      "textPreview": "底盘粗定位+机械臂精抓取",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "底盘粗定位+机械臂精抓取"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "底盘粗定位+机械臂精抓取",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "底盘粗定位+机械臂精抓取",
+              "fontSize": 16,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/m1cfa9w3",
+      "id": "20",
+      "bbox": [
+        162,
+        412,
+        500,
+        24
+      ],
+      "geometry": "rect",
+      "text": "作品：完成月壤采样流程",
+      "textPreview": "作品：完成月壤采样流程",
+      "resolvedFontSize": 15,
+      "resolvedTextStyle": {
+        "fontSize": 15,
+        "typeface": "+mn-lt",
+        "color": "#2ED66F",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "作品：完成月壤采样流程"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "作品：完成月壤采样流程",
+          "resolvedTextStyle": {
+            "fontSize": 15,
+            "color": "#2ED66F",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "作品：完成月壤采样流程",
+              "fontSize": 15,
+              "color": "#2ED66F",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/bm58z25k",
+      "id": "21",
+      "bbox": [
+        78,
+        446,
+        592,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#162635",
+      "lineWidth": 1
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/47y1kre1",
+      "id": "22",
+      "bbox": [
+        86,
+        502,
+        560,
+        54
+      ],
+      "geometry": "rect",
+      "text": "关键问题：信号中断、小车震动、机械臂多解，都是工程系统必须处理的真实问题。",
+      "textPreview": "关键问题：信号中断、小车震动、机械臂多解，都是工程系统必须处理的真实问题。",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "关键问题：信号中断、小车震动、机械臂多解，都是工程系"
+          },
+          {
+            "index": 2,
+            "text": "统必须处理的真实问题。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "关键问题：信号中断、小车震动、机械臂多解，都是工程系统必须处理的真实问题。",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "关键问题：信号中断、小车震动、机械臂多解，都是工程系统必须处理的真实问题。",
+              "fontSize": 20,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

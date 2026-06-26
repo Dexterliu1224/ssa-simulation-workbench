@@ -1,0 +1,800 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/t7ptvs",
+    "id": "t7ptvs",
+    "slide": 10,
+    "layoutId": "b37b1a7f-479c-4c58-b760-b501fe24c6f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "402b47f1-2248-4b24-8e5d-b38920d3aec3",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#070B13",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b37b1a7f-479c-4c58-b760-b501fe24c6f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "402b47f1-2248-4b24-8e5d-b38920d3aec3",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "402b47f1-2248-4b24-8e5d-b38920d3aec3",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0je9cvix",
+      "id": "1",
+      "bbox": [
+        64,
+        38,
+        620,
+        28
+      ],
+      "geometry": "rect",
+      "text": "MARS PIONEER | 初一航天机器人课程",
+      "textPreview": "MARS PIONEER | 初一航天机器人课程",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#00D5FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MARS PIONEER | 初一航天机器人课程"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MARS PIONEER | 初一航天机器人课程",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#00D5FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MARS PIONEER | 初一航天机器人课程",
+              "fontSize": 16,
+              "color": "#00D5FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/byhgn29g",
+      "id": "2",
+      "bbox": [
+        64,
+        78,
+        790,
+        56
+      ],
+      "geometry": "rect",
+      "text": "第五章：模拟赛事与表达",
+      "textPreview": "第五章：模拟赛事与表达",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第五章：模拟赛事与表达"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第五章：模拟赛事与表达",
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第五章：模拟赛事与表达",
+              "fontSize": 40,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/idonyd0z",
+      "id": "3",
+      "bbox": [
+        66,
+        136,
+        850,
+        34
+      ],
+      "geometry": "rect",
+      "text": "从会做任务，走向会展示方案、解释数据",
+      "textPreview": "从会做任务，走向会展示方案、解释数据",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "从会做任务，走向会展示方案、解释数据"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "从会做任务，走向会展示方案、解释数据",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "从会做任务，走向会展示方案、解释数据",
+              "fontSize": 20,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tcj6tova",
+      "id": "4",
+      "bbox": [
+        64,
+        180,
+        1152,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#1D3446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0rqd4vmt",
+      "id": "5",
+      "bbox": [
+        1030,
+        674,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "火星先锋课程大纲 · 10",
+      "textPreview": "火星先锋课程大纲 · 10",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#647487",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "火星先锋课程大纲 · 10"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "火星先锋课程大纲 · 10",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#647487",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "火星先锋课程大纲 · 10",
+              "fontSize": 13,
+              "color": "#647487",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/b6xkf6dc",
+      "id": "6",
+      "bbox": [
+        108,
+        232,
+        450,
+        210
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0E1724",
+      "lineColor": "#1D3446",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/il0rqd4v",
+      "id": "7",
+      "bbox": [
+        108,
+        232,
+        5,
+        210
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF5A1F",
+      "lineColor": "#FF5A1F",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/tovahoza",
+      "id": "8",
+      "bbox": [
+        130,
+        250,
+        410,
+        30
+      ],
+      "geometry": "rect",
+      "text": "L14 全真模拟计时赛",
+      "textPreview": "L14 全真模拟计时赛",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L14 全真模拟计时赛"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L14 全真模拟计时赛",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L14 全真模拟计时赛",
+              "fontSize": 23,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/032lszqt",
+      "id": "9",
+      "bbox": [
+        130,
+        290,
+        410,
+        138
+      ],
+      "geometry": "rect",
+      "text": "对标航天主题赛事规则\n完成赛前检查、3分钟计时任务、裁判评分\n赛后用录像复盘失误点",
+      "textPreview": "对标航天主题赛事规则 | 完成赛前检查、3分钟计时任务、裁判评分 | 赛后用录像复盘失误点",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "对标航天主题赛事规则"
+          },
+          {
+            "index": 2,
+            "text": "完成赛前检查、3分钟计时任务、裁判评分"
+          },
+          {
+            "index": 3,
+            "text": "赛后用录像复盘失误点"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "对标航天主题赛事规则",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "对标航天主题赛事规则",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "完成赛前检查、3分钟计时任务、裁判评分",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "完成赛前检查、3分钟计时任务、裁判评分",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "赛后用录像复盘失误点",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "赛后用录像复盘失误点",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/61032lsz",
+      "id": "10",
+      "bbox": [
+        710,
+        232,
+        450,
+        210
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0E1724",
+      "lineColor": "#1D3446",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/vmtwra5g",
+      "id": "11",
+      "bbox": [
+        710,
+        232,
+        5,
+        210
+      ],
+      "geometry": "rect",
+      "fillColor": "#00D5FF",
+      "lineColor": "#00D5FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/o7qpg3ex",
+      "id": "12",
+      "bbox": [
+        732,
+        250,
+        410,
+        30
+      ],
+      "geometry": "rect",
+      "text": "L15 工程日志与路演答辩",
+      "textPreview": "L15 工程日志与路演答辩",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L15 工程日志与路演答辩"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L15 工程日志与路演答辩",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L15 工程日志与路演答辩",
+              "fontSize": 23,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/dsji5sne",
+      "id": "13",
+      "bbox": [
+        732,
+        290,
+        410,
+        138
+      ],
+      "geometry": "rect",
+      "text": "整理学习记录和实验数据\n制作5分钟项目展示\n回答硬件、算法、风险相关问题",
+      "textPreview": "整理学习记录和实验数据 | 制作5分钟项目展示 | 回答硬件、算法、风险相关问题",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "整理学习记录和实验数据"
+          },
+          {
+            "index": 2,
+            "text": "制作5分钟项目展示"
+          },
+          {
+            "index": 3,
+            "text": "回答硬件、算法、风险相关问题"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "整理学习记录和实验数据",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "整理学习记录和实验数据",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "制作5分钟项目展示",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "制作5分钟项目展示",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "回答硬件、算法、风险相关问题",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "回答硬件、算法、风险相关问题",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/6dcbulwv",
+      "id": "14",
+      "bbox": [
+        140,
+        512,
+        1000,
+        40
+      ],
+      "geometry": "rect",
+      "text": "最终成果：一台能执行任务的火星漫游车 + 一份能讲清楚设计逻辑的学生项目汇报。",
+      "textPreview": "最终成果：一台能执行任务的火星漫游车 + 一份能讲清楚设计逻辑的学生项目汇报。",
+      "resolvedFontSize": 26,
+      "resolvedTextStyle": {
+        "fontSize": 26,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "最终成果：一台能执行任务的火星漫游车 +"
+          },
+          {
+            "index": 2,
+            "text": "一份能讲清楚设计逻辑的学生项目汇报。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "最终成果：一台能执行任务的火星漫游车 + 一份能讲清楚设计逻辑的学生项目汇报。",
+          "resolvedTextStyle": {
+            "fontSize": 26,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "最终成果：一台能执行任务的火星漫游车 + 一份能讲清楚设计逻辑的学生项目汇报。",
+              "fontSize": 26,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

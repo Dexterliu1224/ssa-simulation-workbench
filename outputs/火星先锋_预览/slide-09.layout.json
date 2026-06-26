@@ -1,0 +1,1206 @@
+{
+  "schema": "openai.presentation.layout/v4",
+  "unit": "px",
+  "slide": {
+    "aid": "sl/e5vozr",
+    "id": "e5vozr",
+    "slide": 9,
+    "layoutId": "b37b1a7f-479c-4c58-b760-b501fe24c6f5",
+    "layoutName": "Title Slide",
+    "layoutType": "title",
+    "masterLayoutId": "402b47f1-2248-4b24-8e5d-b38920d3aec3",
+    "masterLayoutName": "Master",
+    "backgroundColor": "#070B13",
+    "frame": {
+      "left": 0,
+      "top": 0,
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "theme": {
+    "colorSchemeName": "ChatGPT",
+    "colors": {
+      "accent1": "#156082",
+      "accent2": "#E97132",
+      "accent3": "#196B24",
+      "accent4": "#0F9ED5",
+      "accent5": "#A02B93",
+      "accent6": "#4EA72E",
+      "bg1": "#FFFFFF",
+      "bg2": "#000000",
+      "tx1": "#1F1F1F",
+      "tx2": "#FFFFFF",
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#0E2841",
+      "lt2": "#E8E8E8",
+      "hlink": "#467886",
+      "folHlink": "#96607D"
+    },
+    "typefaces": [
+      "+mn-lt"
+    ]
+  },
+  "inheritedLayers": [
+    {
+      "scope": "layout",
+      "id": "b37b1a7f-479c-4c58-b760-b501fe24c6f5",
+      "name": "Title Slide",
+      "type": "title",
+      "parentLayoutId": "402b47f1-2248-4b24-8e5d-b38920d3aec3",
+      "elements": []
+    },
+    {
+      "scope": "master",
+      "id": "402b47f1-2248-4b24-8e5d-b38920d3aec3",
+      "name": "Master",
+      "type": "master",
+      "elements": []
+    }
+  ],
+  "elements": [
+    {
+      "order": 1,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/94fu18jq",
+      "id": "1",
+      "bbox": [
+        64,
+        38,
+        620,
+        28
+      ],
+      "geometry": "rect",
+      "text": "MARS PIONEER | 初一航天机器人课程",
+      "textPreview": "MARS PIONEER | 初一航天机器人课程",
+      "resolvedFontSize": 16,
+      "resolvedTextStyle": {
+        "fontSize": 16,
+        "typeface": "+mn-lt",
+        "color": "#00D5FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "MARS PIONEER | 初一航天机器人课程"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "MARS PIONEER | 初一航天机器人课程",
+          "resolvedTextStyle": {
+            "fontSize": 16,
+            "color": "#00D5FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "MARS PIONEER | 初一航天机器人课程",
+              "fontSize": 16,
+              "color": "#00D5FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 2,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2hwfyxob",
+      "id": "2",
+      "bbox": [
+        64,
+        78,
+        790,
+        56
+      ],
+      "geometry": "rect",
+      "text": "第四章：综合实战",
+      "textPreview": "第四章：综合实战",
+      "resolvedFontSize": 40,
+      "resolvedTextStyle": {
+        "fontSize": 40,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "第四章：综合实战"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "第四章：综合实战",
+          "resolvedTextStyle": {
+            "fontSize": 40,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "第四章：综合实战",
+              "fontSize": 40,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 3,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/r2p8nqxs",
+      "id": "3",
+      "bbox": [
+        66,
+        136,
+        850,
+        34
+      ],
+      "geometry": "rect",
+      "text": "把底盘、机械臂、传感器和策略合成完整任务",
+      "textPreview": "把底盘、机械臂、传感器和策略合成完整任务",
+      "resolvedFontSize": 20,
+      "resolvedTextStyle": {
+        "fontSize": 20,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "把底盘、机械臂、传感器和策略合成完整任务"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "把底盘、机械臂、传感器和策略合成完整任务",
+          "resolvedTextStyle": {
+            "fontSize": 20,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "把底盘、机械臂、传感器和策略合成完整任务",
+              "fontSize": 20,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 4,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/gvy90je9",
+      "id": "4",
+      "bbox": [
+        64,
+        180,
+        1152,
+        0
+      ],
+      "geometry": "line",
+      "lineColor": "#1D3446",
+      "lineWidth": 1.2
+    },
+    {
+      "order": 5,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9gr2p8nq",
+      "id": "5",
+      "bbox": [
+        1030,
+        674,
+        190,
+        24
+      ],
+      "geometry": "rect",
+      "text": "火星先锋课程大纲 · 09",
+      "textPreview": "火星先锋课程大纲 · 09",
+      "resolvedFontSize": 13,
+      "resolvedTextStyle": {
+        "fontSize": 13,
+        "typeface": "+mn-lt",
+        "color": "#647487",
+        "alignment": "right",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "火星先锋课程大纲 · 09"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "火星先锋课程大纲 · 09",
+          "resolvedTextStyle": {
+            "fontSize": 13,
+            "color": "#647487",
+            "alignment": "right"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "火星先锋课程大纲 · 09",
+              "fontSize": 13,
+              "color": "#647487",
+              "alignment": "right"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 6,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/2p8nqxs7",
+      "id": "6",
+      "bbox": [
+        76,
+        224,
+        250,
+        190
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0E1724",
+      "lineColor": "#1D3446",
+      "lineWidth": 1
+    },
+    {
+      "order": 7,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ra5gbq1o",
+      "id": "7",
+      "bbox": [
+        76,
+        224,
+        5,
+        190
+      ],
+      "geometry": "rect",
+      "fillColor": "#00D5FF",
+      "lineColor": "#00D5FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 8,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/kzupwb2h",
+      "id": "8",
+      "bbox": [
+        98,
+        242,
+        210,
+        30
+      ],
+      "geometry": "rect",
+      "text": "L10 能源抢夺战",
+      "textPreview": "L10 能源抢夺战",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L10 能源抢夺战"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L10 能源抢夺战",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L10 能源抢夺战",
+              "fontSize": 23,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 9,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/9knih4by",
+      "id": "9",
+      "bbox": [
+        98,
+        282,
+        210,
+        118
+      ],
+      "geometry": "rect",
+      "text": "自动导航到能源区\n手动抢夺与装载\n记录任务耗时",
+      "textPreview": "自动导航到能源区 | 手动抢夺与装载 | 记录任务耗时",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "自动导航到能源区"
+          },
+          {
+            "index": 2,
+            "text": "手动抢夺与装载"
+          },
+          {
+            "index": 3,
+            "text": "记录任务耗时"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "自动导航到能源区",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "自动导航到能源区",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "手动抢夺与装载",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "手动抢夺与装载",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "记录任务耗时",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "记录任务耗时",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 10,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/p8nqxs72",
+      "id": "10",
+      "bbox": [
+        356,
+        224,
+        250,
+        190
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0E1724",
+      "lineColor": "#1D3446",
+      "lineWidth": 1
+    },
+    {
+      "order": 11,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0nuxc3yl",
+      "id": "11",
+      "bbox": [
+        356,
+        224,
+        5,
+        190
+      ],
+      "geometry": "rect",
+      "fillColor": "#2ED66F",
+      "lineColor": "#2ED66F",
+      "lineWidth": 0
+    },
+    {
+      "order": 12,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/72x4nap4",
+      "id": "12",
+      "bbox": [
+        378,
+        242,
+        210,
+        30
+      ],
+      "geometry": "rect",
+      "text": "L11 陨石坑越野",
+      "textPreview": "L11 陨石坑越野",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L11 陨石坑越野"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L11 陨石坑越野",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L11 陨石坑越野",
+              "fontSize": 23,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 13,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ih4byhgn",
+      "id": "13",
+      "bbox": [
+        378,
+        282,
+        210,
+        118
+      ],
+      "geometry": "rect",
+      "text": "调节PWM功率\n设计脱困策略\n测试崎岖路况",
+      "textPreview": "调节PWM功率 | 设计脱困策略 | 测试崎岖路况",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "调节PWM功率"
+          },
+          {
+            "index": 2,
+            "text": "设计脱困策略"
+          },
+          {
+            "index": 3,
+            "text": "测试崎岖路况"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "调节PWM功率",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "调节PWM功率",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "设计脱困策略",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "设计脱困策略",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "测试崎岖路况",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "测试崎岖路况",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 14,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pkzupwb2",
+      "id": "14",
+      "bbox": [
+        636,
+        224,
+        250,
+        190
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0E1724",
+      "lineColor": "#1D3446",
+      "lineWidth": 1
+    },
+    {
+      "order": 15,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0z61032l",
+      "id": "15",
+      "bbox": [
+        636,
+        224,
+        5,
+        190
+      ],
+      "geometry": "rect",
+      "fillColor": "#FF5A1F",
+      "lineColor": "#FF5A1F",
+      "lineWidth": 0
+    },
+    {
+      "order": 16,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/7ed8bat4",
+      "id": "16",
+      "bbox": [
+        658,
+        242,
+        210,
+        30
+      ],
+      "geometry": "rect",
+      "text": "L12 基地运输",
+      "textPreview": "L12 基地运输",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L12 基地运输"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L12 基地运输",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L12 基地运输",
+              "fontSize": 23,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 17,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/itgfmlkj",
+      "id": "17",
+      "bbox": [
+        658,
+        282,
+        210,
+        118
+      ],
+      "geometry": "rect",
+      "text": "起点装载\n循迹行驶\n定点投放与返航",
+      "textPreview": "起点装载 | 循迹行驶 | 定点投放与返航",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "起点装载"
+          },
+          {
+            "index": 2,
+            "text": "循迹行驶"
+          },
+          {
+            "index": 3,
+            "text": "定点投放与返航"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "起点装载",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "起点装载",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "循迹行驶",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "循迹行驶",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "定点投放与返航",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "定点投放与返航",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 18,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/pwb2hwfy",
+      "id": "18",
+      "bbox": [
+        916,
+        224,
+        250,
+        190
+      ],
+      "geometry": "roundRect",
+      "fillColor": "#0E1724",
+      "lineColor": "#1D3446",
+      "lineWidth": 1
+    },
+    {
+      "order": 19,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/0bi9s36h",
+      "id": "19",
+      "bbox": [
+        916,
+        224,
+        5,
+        190
+      ],
+      "geometry": "rect",
+      "fillColor": "#00D5FF",
+      "lineColor": "#00D5FF",
+      "lineWidth": 0
+    },
+    {
+      "order": 20,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/sneloj2t",
+      "id": "20",
+      "bbox": [
+        938,
+        242,
+        210,
+        30
+      ],
+      "geometry": "rect",
+      "text": "L13 故障排查",
+      "textPreview": "L13 故障排查",
+      "resolvedFontSize": 23,
+      "resolvedTextStyle": {
+        "fontSize": 23,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 1,
+        "lines": [
+          {
+            "index": 1,
+            "text": "L13 故障排查"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "L13 故障排查",
+          "resolvedTextStyle": {
+            "fontSize": 23,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "L13 故障排查",
+              "fontSize": 23,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 21,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/l87ed8ba",
+      "id": "21",
+      "bbox": [
+        938,
+        282,
+        210,
+        118
+      ],
+      "geometry": "rect",
+      "text": "断线、参数、逻辑故障\n用日志和二分法定位\n完成故障报告",
+      "textPreview": "断线、参数、逻辑故障 | 用日志和二分法定位 | 完成故障报告",
+      "resolvedFontSize": 17,
+      "resolvedTextStyle": {
+        "fontSize": 17,
+        "typeface": "+mn-lt",
+        "color": "#9FB2C5",
+        "alignment": "left",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 3,
+        "lines": [
+          {
+            "index": 1,
+            "text": "断线、参数、逻辑故障"
+          },
+          {
+            "index": 2,
+            "text": "用日志和二分法定位"
+          },
+          {
+            "index": 3,
+            "text": "完成故障报告"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "断线、参数、逻辑故障",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "断线、参数、逻辑故障",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 2,
+          "text": "用日志和二分法定位",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "用日志和二分法定位",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        },
+        {
+          "index": 3,
+          "text": "完成故障报告",
+          "resolvedTextStyle": {
+            "fontSize": 17,
+            "color": "#9FB2C5",
+            "alignment": "left"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "完成故障报告",
+              "fontSize": 17,
+              "color": "#9FB2C5",
+              "alignment": "left"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    },
+    {
+      "order": 22,
+      "kind": "shape",
+      "scope": "slide",
+      "aid": "sh/ahoza1gv",
+      "id": "22",
+      "bbox": [
+        128,
+        494,
+        1030,
+        50
+      ],
+      "geometry": "rect",
+      "text": "这一章的目标不是“程序一次写对”，而是让学生经历真实工程的测试、失败、修复、再测试。",
+      "textPreview": "这一章的目标不是“程序一次写对”，而是让学生经历真实工程的测试、失败、修复、再测试。",
+      "resolvedFontSize": 25,
+      "resolvedTextStyle": {
+        "fontSize": 25,
+        "typeface": "+mn-lt",
+        "color": "#EEF6FF",
+        "bold": true,
+        "alignment": "center",
+        "insets": {
+          "top": 4.8,
+          "right": 9.6,
+          "bottom": 4.8,
+          "left": 9.6
+        }
+      },
+      "textLayout": {
+        "lineCount": 2,
+        "lines": [
+          {
+            "index": 1,
+            "text": "这一章的目标不是“程序一次写对”，而是让学生经历真实工程的测试、失败、修复、再测"
+          },
+          {
+            "index": 2,
+            "text": "试。"
+          }
+        ]
+      },
+      "paragraphs": [
+        {
+          "index": 1,
+          "text": "这一章的目标不是“程序一次写对”，而是让学生经历真实工程的测试、失败、修复、再测试。",
+          "resolvedTextStyle": {
+            "fontSize": 25,
+            "color": "#EEF6FF",
+            "bold": true,
+            "alignment": "center"
+          },
+          "runs": [
+            {
+              "index": 1,
+              "text": "这一章的目标不是“程序一次写对”，而是让学生经历真实工程的测试、失败、修复、再测试。",
+              "fontSize": 25,
+              "color": "#EEF6FF",
+              "bold": true,
+              "alignment": "center"
+            }
+          ],
+          "marginLeft": 0
+        }
+      ],
+      "lineWidth": 0
+    }
+  ],
+  "composeRuns": []
+}

@@ -1,0 +1,104 @@
+[
+  {
+    "file": "acrimsat.glb",
+    "name": "Active Cavity Irradiance Monitor Satellite (AcrimSAT) (A)",
+    "source": "NASA Science 3D Resources",
+    "url": "https://science.nasa.gov/3d-resources/active-cavity-irradiance-monitor-satellite-acrimsat-a/"
+  },
+  {
+    "file": "agena.glb",
+    "name": "Agena Target Vehicle",
+    "source": "NASA Science 3D Resources",
+    "url": "https://science.nasa.gov/3d-resources/agena-target-vehicle/"
+  },
+  {
+    "file": "ace.glb",
+    "name": "Advanced Composition Explorer",
+    "source": "NASA Science 3D Resources",
+    "url": "https://science.nasa.gov/3d-resources/advanced-composition-explorer/"
+  },
+  {
+    "file": "atlast.glb",
+    "name": "Advanced Technology Large-Aperture Space Telescope (ATLAST)",
+    "source": "NASA Science 3D Resources",
+    "url": "https://science.nasa.gov/3d-resources/advanced-technology-large-aperture-space-telescope-atlast/"
+  },
+  {
+    "file": "aim.glb",
+    "name": "Aeronomy of Ice in the Mesosphere",
+    "source": "NASA Science 3D Resources",
+    "url": "https://science.nasa.gov/3d-resources/aeronomy-of-ice-in-the-mesosphere/"
+  },
+  {
+    "file": "dsn-dish.glb",
+    "name": "70 Meter Dish",
+    "source": "NASA Science 3D Resources",
+    "url": "https://science.nasa.gov/3d-resources/70-meter-dish/"
+  },
+  {
+    "file": "ISS/ISS_A.glb",
+    "name": "International Space Station",
+    "source": "Local copied model asset",
+    "url": ""
+  },
+  {
+    "file": "HUBBLE/Hubble_A.glb",
+    "name": "Hubble Space Telescope",
+    "source": "Local copied model asset",
+    "url": ""
+  },
+  {
+    "file": "CHANDRA/Chandra.glb",
+    "name": "Chandra",
+    "source": "Local copied model asset",
+    "url": ""
+  },
+  {
+    "file": "LANDSAT/Landsat_4-5.glb",
+    "name": "Landsat",
+    "source": "Local copied model asset",
+    "url": ""
+  },
+  {
+    "file": "GLONASS/GLONASS-M.glb",
+    "name": "GLONASS-M",
+    "source": "Local copied model asset",
+    "url": ""
+  },
+  {
+    "file": "NOAA/Suomi_NPP.glb",
+    "name": "NOAA / Suomi NPP",
+    "source": "Local copied model asset",
+    "url": ""
+  },
+  {
+    "file": "TDRS/TDRS_A.glb",
+    "name": "TDRS",
+    "source": "Local copied model asset",
+    "url": ""
+  },
+  {
+    "file": "中国航天器/shenzhou_v.glb",
+    "name": "Shenzhou",
+    "source": "Local copied model asset",
+    "url": ""
+  },
+  {
+    "file": "中国航天器/tianzhou-2_cargo_ship.glb",
+    "name": "Tianzhou cargo ship",
+    "source": "Local copied model asset",
+    "url": ""
+  },
+  {
+    "file": "中国航天器/cz-2f.glb",
+    "name": "Long March 2F",
+    "source": "Local copied model asset",
+    "url": ""
+  },
+  {
+    "file": "中国航天器/long_march_5_rocket.glb",
+    "name": "Long March 5",
+    "source": "Local copied model asset",
+    "url": ""
+  }
+]

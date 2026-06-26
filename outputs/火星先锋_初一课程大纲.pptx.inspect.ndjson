@@ -1,0 +1,375 @@
+{"kind":"deck","id":"pr/n022rg","name":"Deck"}
+{"kind":"layout","layoutId":"402b47f1-2248-4b24-8e5d-b38920d3aec3","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"b37b1a7f-479c-4c58-b760-b501fe24c6f5","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/msttnb","slide":1,"title":"火星先锋","textShapes":4}
+{"kind":"shape","id":"sh/90je9cvi","slide":1,"bbox":[0,0,575,720]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":1,"text":"火星先锋","textPreview":"火星先锋","textChars":4,"textLines":1,"bbox":[72,145,470,74]}
+{"kind":"textbox","id":"sh/rmhk3q5o","slide":1,"text":"Mars Pioneer","textPreview":"Mars Pioneer","textChars":12,"textLines":1,"bbox":[76,222,360,42]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":1,"text":"面向初一学生的嵌入式编程与仿生火星探测机器人课程大纲","textPreview":"面向初一学生的嵌入式编程与仿生火星探测机器人课程大纲","textChars":26,"textLines":1,"bbox":[76,300,430,92]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":1,"text":"15课时 · STM32 · 麦克纳姆轮 · 机械臂 · 传感器 · 模拟赛事","textPreview":"15课时 · STM32 · 麦克纳姆轮 · 机械臂 · 传感器 · 模拟赛事","textChars":39,"textLines":1,"bbox":[76,612,710,30]}
+{"kind":"image","id":"im/rytsvu9k","slide":1,"name":"","alt":"火星先锋产品效果图","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/msttnb","slide":1,"text":""}
+{"kind":"slide","id":"sl/05vgvw","slide":2,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":13}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":2,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":2,"text":"课程定位","textPreview":"课程定位","textChars":4,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":2,"text":"把“火星探测任务”拆成初一学生能完成的工程挑战","textPreview":"把“火星探测任务”拆成初一学生能完成的工程挑战","textChars":23,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/2t83itgf","slide":2,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":2,"text":"火星先锋课程大纲 · 02","textPreview":"火星先锋课程大纲 · 02","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"shape","id":"sh/kzupwb2h","slide":2,"bbox":[72,224,250,160]}
+{"kind":"shape","id":"sh/9knih4by","slide":2,"bbox":[72,224,5,160]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":2,"text":"对象","textPreview":"对象","textChars":2,"textLines":1,"bbox":[94,242,210,30]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":2,"text":"初一年级学生\n有图形化/基础编程经验更佳\n以小组协作为主要学习方式","textPreview":"初一年级学生 | 有图形化/基础编程经验更佳 | 以小组协作为主要学习方式","textChars":33,"textLines":3,"bbox":[94,282,210,88]}
+{"kind":"shape","id":"sh/3m94fu18","slide":2,"bbox":[354,224,250,160]}
+{"kind":"shape","id":"sh/a5gbq1or","slide":2,"bbox":[354,224,5,160]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":2,"text":"课时","textPreview":"课时","textChars":2,"textLines":1,"bbox":[376,242,210,30]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":2,"text":"共15节课\n每节60分钟\n14节核心学习 + 1节模拟赛事/展示","textPreview":"共15节课 | 每节60分钟 | 14节核心学习 + 1节模拟赛事/展示","textChars":32,"textLines":3,"bbox":[376,282,210,88]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":2,"bbox":[636,224,250,160]}
+{"kind":"shape","id":"sh/adsji5sn","slide":2,"bbox":[636,224,5,160]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":2,"text":"平台","textPreview":"平台","textChars":2,"textLines":1,"bbox":[658,242,210,30]}
+{"kind":"textbox","id":"sh/sji5snel","slide":2,"text":"STM32主控\n全向底盘\n机械臂与多传感器系统","textPreview":"STM32主控 | 全向底盘 | 机械臂与多传感器系统","textChars":23,"textLines":3,"bbox":[658,282,210,88]}
+{"kind":"shape","id":"sh/za1gvy90","slide":2,"bbox":[918,224,250,160]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":2,"bbox":[918,224,5,160]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":2,"text":"产出","textPreview":"产出","textChars":2,"textLines":1,"bbox":[940,242,210,30]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":2,"text":"能跑、能看、能抓、能判断\n完成一次火星任务式综合演示","textPreview":"能跑、能看、能抓、能判断 | 完成一次火星任务式综合演示","textChars":26,"textLines":2,"bbox":[940,282,210,88]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":2,"text":"课程主线：认识硬件 → 控制运动 → 感知环境 → 完成任务 → 复盘表达","textPreview":"课程主线：认识硬件 → 控制运动 → 感知环境 → 完成任务 → 复盘表达","textChars":37,"textLines":1,"bbox":[118,460,1040,44]}
+{"kind":"notes","id":"nt/05vgvw","slide":2,"text":""}
+{"kind":"slide","id":"sl/nm6y0h","slide":3,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":10}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":3,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":3,"text":"初一适配原则","textPreview":"初一适配原则","textChars":6,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":3,"text":"保留真实工程味道，但降低数学和代码门槛","textPreview":"保留真实工程味道，但降低数学和代码门槛","textChars":19,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/3ex0nuxc","slide":3,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":3,"text":"火星先锋课程大纲 · 03","textPreview":"火星先锋课程大纲 · 03","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":3,"bbox":[72,220,560,86]}
+{"kind":"shape","id":"sh/3itgfmlk","slide":3,"bbox":[72,220,5,86]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":3,"text":"先任务，后公式","textPreview":"先任务，后公式","textChars":7,"textLines":1,"bbox":[94,238,520,30]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":3,"text":"先让小车前进、横移、转向，再回头解释轮子为什么这样转。","textPreview":"先让小车前进、横移、转向，再回头解释轮子为什么这样转。","textChars":27,"textLines":1,"bbox":[94,278,520,14]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":3,"bbox":[72,324,560,86]}
+{"kind":"shape","id":"sh/ed8bat47","slide":3,"bbox":[72,324,5,86]}
+{"kind":"textbox","id":"sh/7u54zido","slide":3,"text":"先调用，再理解","textPreview":"先调用，再理解","textChars":7,"textLines":1,"bbox":[94,342,520,30]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":3,"text":"先用 SpaceCommon 库完成基本控制，再逐步拆开 GPIO、PWM、IIC、SPI。","textPreview":"先用 SpaceCommon 库完成基本控制，再逐步拆开 GPIO、PWM、IIC、SPI。","textChars":46,"textLines":1,"bbox":[94,382,520,14]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":3,"bbox":[72,428,560,86]}
+{"kind":"shape","id":"sh/eloj2t83","slide":3,"bbox":[72,428,5,86]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":3,"text":"先现象，后调参","textPreview":"先现象，后调参","textChars":7,"textLines":1,"bbox":[94,446,520,30]}
+{"kind":"textbox","id":"sh/wval87ed","slide":3,"text":"巡线、机械臂、避障都用可观察现象引入，通过测试记录理解参数。","textPreview":"巡线、机械臂、避障都用可观察现象引入，通过测试记录理解参数。","textChars":30,"textLines":1,"bbox":[94,486,520,14]}
+{"kind":"image","id":"im/8v6psfil","slide":3,"name":"","geometry":"roundRect","alt":"火星先锋3D渲染图","bbox":[710,126,510,430]}
+{"kind":"notes","id":"nt/nm6y0h","slide":3,"text":""}
+{"kind":"slide","id":"sl/mh8k66","slide":4,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":10}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":4,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/d0z61032","slide":4,"text":"硬件平台概览","textPreview":"硬件平台概览","textChars":6,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/kf6dcbul","slide":4,"text":"三层架构支撑从单模块到系统集成的学习路径","textPreview":"三层架构支撑从单模块到系统集成的学习路径","textChars":20,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/v6psfil0","slide":4,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":4,"text":"火星先锋课程大纲 · 04","textPreview":"火星先锋课程大纲 · 04","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"shape","id":"sh/knih4byh","slide":4,"bbox":[78,222,484,84]}
+{"kind":"shape","id":"sh/val87ed8","slide":4,"bbox":[78,222,5,84]}
+{"kind":"textbox","id":"sh/6psfil0r","slide":4,"text":"上层：控制与交互","textPreview":"上层：控制与交互","textChars":8,"textLines":1,"bbox":[100,240,444,30]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":4,"text":"STM32主控、蓝牙通信、PS手柄、OLED显示、RGB状态灯","textPreview":"STM32主控、蓝牙通信、PS手柄、OLED显示、RGB状态灯","textChars":31,"textLines":1,"bbox":[100,280,444,12]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":4,"bbox":[78,326,484,84]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":4,"bbox":[78,326,5,84]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":4,"text":"中层：环境与运动感知","textPreview":"中层：环境与运动感知","textChars":10,"textLines":1,"bbox":[100,344,444,30]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":4,"text":"8路红外巡线、超声波、光亮、温湿度等传感器","textPreview":"8路红外巡线、超声波、光亮、温湿度等传感器","textChars":21,"textLines":1,"bbox":[100,384,444,12]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":4,"bbox":[78,430,484,84]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":4,"bbox":[78,430,5,84]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":4,"text":"底层：执行与供电","textPreview":"底层：执行与供电","textChars":8,"textLines":1,"bbox":[100,448,444,30]}
+{"kind":"textbox","id":"sh/83itgfml","slide":4,"text":"四轮独立电机、麦克纳姆轮、机械臂舵机、双路供电","textPreview":"四轮独立电机、麦克纳姆轮、机械臂舵机、双路供电","textChars":23,"textLines":1,"bbox":[100,488,444,12]}
+{"kind":"image","id":"im/cvixczed","slide":4,"name":"","geometry":"roundRect","alt":"零件爆炸图","bbox":[648,132,542,442]}
+{"kind":"notes","id":"nt/mh8k66","slide":4,"text":""}
+{"kind":"slide","id":"sl/6v8z2x","slide":5,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":19}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":5,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":5,"text":"课程能力地图","textPreview":"课程能力地图","textChars":6,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/g7adsji5","slide":5,"text":"五个阶段从“会操作”走向“会设计、会解释”","textPreview":"五个阶段从“会操作”走向“会设计、会解释”","textChars":21,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":5,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":5,"text":"火星先锋课程大纲 · 05","textPreview":"火星先锋课程大纲 · 05","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"shape","id":"sh/90je9cvi","slide":5,"bbox":[144,236,84,84]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":5,"text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[162,250,48,48]}
+{"kind":"shape","id":"sh/r65wjudg","slide":5,"bbox":[238,278,122,0]}
+{"kind":"shape","id":"sh/ylc7u54z","slide":5,"bbox":[82,354,196,150]}
+{"kind":"shape","id":"sh/g7adsji5","slide":5,"bbox":[82,354,5,150]}
+{"kind":"textbox","id":"sh/9s36hcrm","slide":5,"text":"基础夯实","textPreview":"基础夯实","textChars":4,"textLines":1,"bbox":[104,372,156,30]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":5,"text":"L01-L03\n开发环境、结构认知、全向移动","textPreview":"L01-L03 | 开发环境、结构认知、全向移动","textChars":22,"textLines":2,"bbox":[104,412,156,78]}
+{"kind":"shape","id":"sh/rmhk3q5o","slide":5,"bbox":[368,236,84,84]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":5,"text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[386,250,48,48]}
+{"kind":"shape","id":"sh/90je9cvi","slide":5,"bbox":[462,278,122,0]}
+{"kind":"shape","id":"sh/yd0z6103","slide":5,"bbox":[306,354,196,150]}
+{"kind":"shape","id":"sh/rytsvu9k","slide":5,"bbox":[306,354,5,150]}
+{"kind":"textbox","id":"sh/gr2p8nqx","slide":5,"text":"遥操作控制","textPreview":"遥操作控制","textChars":5,"textLines":1,"bbox":[328,372,156,30]}
+{"kind":"textbox","id":"sh/9cvixcze","slide":5,"text":"L04-L06\n蓝牙遥控、机械臂、采样协同","textPreview":"L04-L06 | 蓝牙遥控、机械臂、采样协同","textChars":21,"textLines":2,"bbox":[328,412,156,78]}
+{"kind":"shape","id":"sh/tovahoza","slide":5,"bbox":[592,236,84,84]}
+{"kind":"textbox","id":"sh/032lszqt","slide":5,"text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[610,250,48,48]}
+{"kind":"shape","id":"sh/bi9s36hc","slide":5,"bbox":[686,278,122,0]}
+{"kind":"shape","id":"sh/ixczed8v","slide":5,"bbox":[530,354,196,150]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":5,"bbox":[530,354,5,150]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":5,"text":"环境感知","textPreview":"环境感知","textChars":4,"textLines":1,"bbox":[552,372,156,30]}
+{"kind":"textbox","id":"sh/bulwval8","slide":5,"text":"L07-L09\n环境监控、巡线、状态机切换","textPreview":"L07-L09 | 环境监控、巡线、状态机切换","textChars":21,"textLines":2,"bbox":[552,412,156,78]}
+{"kind":"shape","id":"sh/i9s36hcr","slide":5,"bbox":[816,236,84,84]}
+{"kind":"textbox","id":"sh/t47y1kre","slide":5,"text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[834,250,48,48]}
+{"kind":"shape","id":"sh/0je9cvix","slide":5,"bbox":[910,278,122,0]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":5,"bbox":[754,354,196,150]}
+{"kind":"shape","id":"sh/32lszqtc","slide":5,"bbox":[754,354,5,150]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":5,"text":"综合实战","textPreview":"综合实战","textChars":4,"textLines":1,"bbox":[776,372,156,30]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":5,"text":"L10-L13\n能源抢夺、越野、运输、Debug","textPreview":"L10-L13 | 能源抢夺、越野、运输、Debug","textChars":24,"textLines":2,"bbox":[776,412,156,78]}
+{"kind":"shape","id":"sh/at47y1kr","slide":5,"bbox":[1040,236,84,84]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":5,"text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[1058,250,48,48]}
+{"kind":"shape","id":"sh/szqtcj6t","slide":5,"bbox":[978,354,196,150]}
+{"kind":"shape","id":"sh/lkjm1cfa","slide":5,"bbox":[978,354,5,150]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":5,"text":"模拟赛事","textPreview":"模拟赛事","textChars":4,"textLines":1,"bbox":[1000,372,156,30]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":5,"text":"L14-L15\n计时赛、工程日志、路演答辩","textPreview":"L14-L15 | 计时赛、工程日志、路演答辩","textChars":21,"textLines":2,"bbox":[1000,412,156,78]}
+{"kind":"notes","id":"nt/6v8z2x","slide":5,"text":""}
+{"kind":"slide","id":"sl/diix42","slide":6,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":17}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":6,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":6,"text":"第一章：基础夯实","textPreview":"第一章：基础夯实","textChars":8,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/cvixczed","slide":6,"text":"硬件认知与运动学入门","textPreview":"硬件认知与运动学入门","textChars":10,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/nyd0z610","slide":6,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":6,"text":"火星先锋课程大纲 · 06","textPreview":"火星先锋课程大纲 · 06","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":6,"text":"L01","textPreview":"L01","textChars":3,"textLines":1,"bbox":[86,224,62,28]}
+{"kind":"textbox","id":"sh/judg7ads","slide":6,"text":"航天史与开发环境","textPreview":"航天史与开发环境","textChars":8,"textLines":1,"bbox":[162,224,222,28]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":6,"text":"认识太空车与STM32","textPreview":"认识太空车与STM32","textChars":11,"textLines":1,"bbox":[392,224,274,28]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":6,"text":"作品：完成第一个可运行工程","textPreview":"作品：完成第一个可运行工程","textChars":13,"textLines":1,"bbox":[162,252,500,24]}
+{"kind":"shape","id":"sh/tsvu9kni","slide":6,"bbox":[78,286,592,0]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":6,"text":"L02","textPreview":"L02","textChars":3,"textLines":1,"bbox":[86,304,62,28]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":6,"text":"结构与数据显控","textPreview":"结构与数据显控","textChars":7,"textLines":1,"bbox":[162,304,222,28]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":6,"text":"IIC与OLED显示","textPreview":"IIC与OLED显示","textChars":10,"textLines":1,"bbox":[392,304,274,28]}
+{"kind":"textbox","id":"sh/tgfmlkjm","slide":6,"text":"作品：做出“火星仪表盘”","textPreview":"作品：做出“火星仪表盘”","textChars":12,"textLines":1,"bbox":[162,332,500,24]}
+{"kind":"shape","id":"sh/mp0bi9s3","slide":6,"bbox":[78,366,592,0]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":6,"text":"L03","textPreview":"L03","textChars":3,"textLines":1,"bbox":[86,384,62,28]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":6,"text":"麦克纳姆轮全向移动","textPreview":"麦克纳姆轮全向移动","textChars":9,"textLines":1,"bbox":[162,384,222,28]}
+{"kind":"textbox","id":"sh/t83itgfm","slide":6,"text":"四轮方向组合与PWM","textPreview":"四轮方向组合与PWM","textChars":10,"textLines":1,"bbox":[392,384,274,28]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":6,"text":"作品：小车走正方形并回到起点","textPreview":"作品：小车走正方形并回到起点","textChars":14,"textLines":1,"bbox":[162,412,500,24]}
+{"kind":"shape","id":"sh/87ed8bat","slide":6,"bbox":[78,446,592,0]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":6,"text":"初一处理方式：用“轮子方向表”和实测现象代替复杂矩阵推导。","textPreview":"初一处理方式：用“轮子方向表”和实测现象代替复杂矩阵推导。","textChars":29,"textLines":1,"bbox":[86,502,580,52]}
+{"kind":"image","id":"im/orytsvu9","slide":6,"name":"","geometry":"roundRect","alt":"工程三视图","bbox":[730,130,490,420]}
+{"kind":"notes","id":"nt/diix42","slide":6,"text":""}
+{"kind":"slide","id":"sl/weluki","slide":7,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":17}
+{"kind":"textbox","id":"sh/judg7ads","slide":7,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":7,"text":"第二章：遥操作与执行","textPreview":"第二章：遥操作与执行","textChars":10,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/1032lszq","slide":7,"text":"从手柄控制到机械臂采样任务","textPreview":"从手柄控制到机械臂采样任务","textChars":13,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":7,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":7,"text":"火星先锋课程大纲 · 07","textPreview":"火星先锋课程大纲 · 07","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":7,"text":"L04","textPreview":"L04","textChars":3,"textLines":1,"bbox":[86,224,62,28]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":7,"text":"蓝牙通讯与底盘遥控","textPreview":"蓝牙通讯与底盘遥控","textChars":9,"textLines":1,"bbox":[162,224,222,28]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":7,"text":"手柄数据映射到轮速","textPreview":"手柄数据映射到轮速","textChars":9,"textLines":1,"bbox":[392,224,274,28]}
+{"kind":"textbox","id":"sh/7u54zido","slide":7,"text":"作品：实现底盘遥控","textPreview":"作品：实现底盘遥控","textChars":9,"textLines":1,"bbox":[162,252,500,24]}
+{"kind":"shape","id":"sh/ed8bat47","slide":7,"bbox":[78,286,592,0]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":7,"text":"L05","textPreview":"L05","textChars":3,"textLines":1,"bbox":[86,304,62,28]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":7,"text":"机械臂抓取","textPreview":"机械臂抓取","textChars":5,"textLines":1,"bbox":[162,304,222,28]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":7,"text":"舵机角度与预设姿态","textPreview":"舵机角度与预设姿态","textChars":9,"textLines":1,"bbox":[392,304,274,28]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":7,"text":"作品：完成连续抓放任务","textPreview":"作品：完成连续抓放任务","textChars":11,"textLines":1,"bbox":[162,332,500,24]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":7,"bbox":[78,366,592,0]}
+{"kind":"textbox","id":"sh/wra5gbq1","slide":7,"text":"L06","textPreview":"L06","textChars":3,"textLines":1,"bbox":[86,384,62,28]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":7,"text":"采样空间协同","textPreview":"采样空间协同","textChars":6,"textLines":1,"bbox":[162,384,222,28]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":7,"text":"底盘粗定位+机械臂精抓取","textPreview":"底盘粗定位+机械臂精抓取","textChars":12,"textLines":1,"bbox":[392,384,274,28]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":7,"text":"作品：完成月壤采样流程","textPreview":"作品：完成月壤采样流程","textChars":11,"textLines":1,"bbox":[162,412,500,24]}
+{"kind":"shape","id":"sh/bm58z25k","slide":7,"bbox":[78,446,592,0]}
+{"kind":"textbox","id":"sh/47y1kre1","slide":7,"text":"关键问题：信号中断、小车震动、机械臂多解，都是工程系统必须处理的真实问题。","textPreview":"关键问题：信号中断、小车震动、机械臂多解，都是工程系统必须处理的真实问题。","textChars":37,"textLines":1,"bbox":[86,502,560,54]}
+{"kind":"image","id":"im/hgn29gr2","slide":7,"name":"","geometry":"roundRect","alt":"等轴测渲染图","bbox":[694,126,524,436]}
+{"kind":"notes","id":"nt/weluki","slide":7,"text":""}
+{"kind":"slide","id":"sl/zljvz8","slide":8,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":17}
+{"kind":"textbox","id":"sh/il0rqd4v","slide":8,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":8,"text":"第三章：环境感知","textPreview":"第三章：环境感知","textChars":8,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":8,"text":"自动驾驶入门：让机器人看见、判断、切换模式","textPreview":"自动驾驶入门：让机器人看见、判断、切换模式","textChars":21,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/byhgn29g","slide":8,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":8,"text":"火星先锋课程大纲 · 08","textPreview":"火星先锋课程大纲 · 08","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"textbox","id":"sh/0je9cvix","slide":8,"text":"L07","textPreview":"L07","textChars":3,"textLines":1,"bbox":[86,224,62,28]}
+{"kind":"textbox","id":"sh/bulwval8","slide":8,"text":"环境监控预警","textPreview":"环境监控预警","textChars":6,"textLines":1,"bbox":[162,224,222,28]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":8,"text":"温湿度、光照、多级报警","textPreview":"温湿度、光照、多级报警","textChars":11,"textLines":1,"bbox":[392,224,274,28]}
+{"kind":"textbox","id":"sh/0fepkzup","slide":8,"text":"作品：环境监控面板","textPreview":"作品：环境监控面板","textChars":9,"textLines":1,"bbox":[162,252,500,24]}
+{"kind":"shape","id":"sh/p0bi9s36","slide":8,"bbox":[78,286,592,0]}
+{"kind":"textbox","id":"sh/i9s36hcr","slide":8,"text":"L08","textPreview":"L08","textChars":3,"textLines":1,"bbox":[86,304,62,28]}
+{"kind":"textbox","id":"sh/bulwval8","slide":8,"text":"颜色识别与巡线","textPreview":"颜色识别与巡线","textChars":7,"textLines":1,"bbox":[162,304,222,28]}
+{"kind":"textbox","id":"sh/032lszqt","slide":8,"text":"红外/颜色传感器+基础PID","textPreview":"红外/颜色传感器+基础PID","textChars":14,"textLines":1,"bbox":[392,304,274,28]}
+{"kind":"textbox","id":"sh/tovahoza","slide":8,"text":"作品：稳定通过弯道赛道","textPreview":"作品：稳定通过弯道赛道","textChars":11,"textLines":1,"bbox":[162,332,500,24]}
+{"kind":"shape","id":"sh/ixczed8v","slide":8,"bbox":[78,366,592,0]}
+{"kind":"textbox","id":"sh/bi9s36hc","slide":8,"text":"L09","textPreview":"L09","textChars":3,"textLines":1,"bbox":[86,384,62,28]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":8,"text":"复杂路况与切换","textPreview":"复杂路况与切换","textChars":7,"textLines":1,"bbox":[162,384,222,28]}
+{"kind":"textbox","id":"sh/tcj6tova","slide":8,"text":"有限状态机与路标识别","textPreview":"有限状态机与路标识别","textChars":10,"textLines":1,"bbox":[392,384,274,28]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":8,"text":"作品：实现人机热切换","textPreview":"作品：实现人机热切换","textChars":10,"textLines":1,"bbox":[162,412,500,24]}
+{"kind":"shape","id":"sh/4fu18jqh","slide":8,"bbox":[78,446,592,0]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":8,"text":"初一处理方式：PID只讲“偏得越多，纠得越多；变化越快，提前刹一刹”。","textPreview":"初一处理方式：PID只讲“偏得越多，纠得越多；变化越快，提前刹一刹”。","textChars":35,"textLines":1,"bbox":[86,502,548,52]}
+{"kind":"image","id":"im/4nap4r65","slide":8,"name":"","geometry":"roundRect","alt":"电路布局图","bbox":[680,122,540,450]}
+{"kind":"notes","id":"nt/zljvz8","slide":8,"text":""}
+{"kind":"slide","id":"sl/e5vozr","slide":9,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":13}
+{"kind":"textbox","id":"sh/94fu18jq","slide":9,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/2hwfyxob","slide":9,"text":"第四章：综合实战","textPreview":"第四章：综合实战","textChars":8,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/r2p8nqxs","slide":9,"text":"把底盘、机械臂、传感器和策略合成完整任务","textPreview":"把底盘、机械臂、传感器和策略合成完整任务","textChars":20,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/gvy90je9","slide":9,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/9gr2p8nq","slide":9,"text":"火星先锋课程大纲 · 09","textPreview":"火星先锋课程大纲 · 09","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"shape","id":"sh/2p8nqxs7","slide":9,"bbox":[76,224,250,190]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":9,"bbox":[76,224,5,190]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":9,"text":"L10 能源抢夺战","textPreview":"L10 能源抢夺战","textChars":9,"textLines":1,"bbox":[98,242,210,30]}
+{"kind":"textbox","id":"sh/9knih4by","slide":9,"text":"自动导航到能源区\n手动抢夺与装载\n记录任务耗时","textPreview":"自动导航到能源区 | 手动抢夺与装载 | 记录任务耗时","textChars":23,"textLines":3,"bbox":[98,282,210,118]}
+{"kind":"shape","id":"sh/p8nqxs72","slide":9,"bbox":[356,224,250,190]}
+{"kind":"shape","id":"sh/0nuxc3yl","slide":9,"bbox":[356,224,5,190]}
+{"kind":"textbox","id":"sh/72x4nap4","slide":9,"text":"L11 陨石坑越野","textPreview":"L11 陨石坑越野","textChars":9,"textLines":1,"bbox":[378,242,210,30]}
+{"kind":"textbox","id":"sh/ih4byhgn","slide":9,"text":"调节PWM功率\n设计脱困策略\n测试崎岖路况","textPreview":"调节PWM功率 | 设计脱困策略 | 测试崎岖路况","textChars":21,"textLines":3,"bbox":[378,282,210,118]}
+{"kind":"shape","id":"sh/pkzupwb2","slide":9,"bbox":[636,224,250,190]}
+{"kind":"shape","id":"sh/0z61032l","slide":9,"bbox":[636,224,5,190]}
+{"kind":"textbox","id":"sh/7ed8bat4","slide":9,"text":"L12 基地运输","textPreview":"L12 基地运输","textChars":8,"textLines":1,"bbox":[658,242,210,30]}
+{"kind":"textbox","id":"sh/itgfmlkj","slide":9,"text":"起点装载\n循迹行驶\n定点投放与返航","textPreview":"起点装载 | 循迹行驶 | 定点投放与返航","textChars":17,"textLines":3,"bbox":[658,282,210,118]}
+{"kind":"shape","id":"sh/pwb2hwfy","slide":9,"bbox":[916,224,250,190]}
+{"kind":"shape","id":"sh/0bi9s36h","slide":9,"bbox":[916,224,5,190]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":9,"text":"L13 故障排查","textPreview":"L13 故障排查","textChars":8,"textLines":1,"bbox":[938,242,210,30]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":9,"text":"断线、参数、逻辑故障\n用日志和二分法定位\n完成故障报告","textPreview":"断线、参数、逻辑故障 | 用日志和二分法定位 | 完成故障报告","textChars":27,"textLines":3,"bbox":[938,282,210,118]}
+{"kind":"textbox","id":"sh/ahoza1gv","slide":9,"text":"这一章的目标不是“程序一次写对”，而是让学生经历真实工程的测试、失败、修复、再测试。","textPreview":"这一章的目标不是“程序一次写对”，而是让学生经历真实工程的测试、失败、修复、再测试。","textChars":42,"textLines":1,"bbox":[128,494,1030,50]}
+{"kind":"notes","id":"nt/e5vozr","slide":9,"text":""}
+{"kind":"slide","id":"sl/t7ptvs","slide":10,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":9}
+{"kind":"textbox","id":"sh/0je9cvix","slide":10,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/byhgn29g","slide":10,"text":"第五章：模拟赛事与表达","textPreview":"第五章：模拟赛事与表达","textChars":11,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/idonyd0z","slide":10,"text":"从会做任务，走向会展示方案、解释数据","textPreview":"从会做任务，走向会展示方案、解释数据","textChars":18,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/tcj6tova","slide":10,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/0rqd4vmt","slide":10,"text":"火星先锋课程大纲 · 10","textPreview":"火星先锋课程大纲 · 10","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"shape","id":"sh/b6xkf6dc","slide":10,"bbox":[108,232,450,210]}
+{"kind":"shape","id":"sh/il0rqd4v","slide":10,"bbox":[108,232,5,210]}
+{"kind":"textbox","id":"sh/tovahoza","slide":10,"text":"L14 全真模拟计时赛","textPreview":"L14 全真模拟计时赛","textChars":11,"textLines":1,"bbox":[130,250,410,30]}
+{"kind":"textbox","id":"sh/032lszqt","slide":10,"text":"对标航天主题赛事规则\n完成赛前检查、3分钟计时任务、裁判评分\n赛后用录像复盘失误点","textPreview":"对标航天主题赛事规则 | 完成赛前检查、3分钟计时任务、裁判评分 | 赛后用录像复盘失误点","textChars":41,"textLines":3,"bbox":[130,290,410,138]}
+{"kind":"shape","id":"sh/61032lsz","slide":10,"bbox":[710,232,450,210]}
+{"kind":"shape","id":"sh/vmtwra5g","slide":10,"bbox":[710,232,5,210]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":10,"text":"L15 工程日志与路演答辩","textPreview":"L15 工程日志与路演答辩","textChars":13,"textLines":1,"bbox":[732,250,410,30]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":10,"text":"整理学习记录和实验数据\n制作5分钟项目展示\n回答硬件、算法、风险相关问题","textPreview":"整理学习记录和实验数据 | 制作5分钟项目展示 | 回答硬件、算法、风险相关问题","textChars":36,"textLines":3,"bbox":[732,290,410,138]}
+{"kind":"textbox","id":"sh/6dcbulwv","slide":10,"text":"最终成果：一台能执行任务的火星漫游车 + 一份能讲清楚设计逻辑的学生项目汇报。","textPreview":"最终成果：一台能执行任务的火星漫游车 + 一份能讲清楚设计逻辑的学生项目汇报。","textChars":39,"textLines":1,"bbox":[140,512,1000,40]}
+{"kind":"notes","id":"nt/t7ptvs","slide":10,"text":""}
+{"kind":"slide","id":"sl/egrw53","slide":11,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":36}
+{"kind":"textbox","id":"sh/nap4r65w","slide":11,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/cvixczed","slide":11,"text":"15节课总览","textPreview":"15节课总览","textChars":6,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":11,"text":"每节课都有明确的课堂作品和可观察结果","textPreview":"每节课都有明确的课堂作品和可观察结果","textChars":18,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/udg7adsj","slide":11,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":11,"text":"火星先锋课程大纲 · 11","textPreview":"火星先锋课程大纲 · 11","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":11,"text":"课时","textPreview":"课时","textChars":2,"textLines":1,"bbox":[88,202,70,28]}
+{"kind":"textbox","id":"sh/54zidony","slide":11,"text":"课程主题","textPreview":"课程主题","textChars":4,"textLines":1,"bbox":[160,202,260,28]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":11,"text":"核心学习","textPreview":"核心学习","textChars":4,"textLines":1,"bbox":[450,202,300,28]}
+{"kind":"textbox","id":"sh/judg7ads","slide":11,"text":"课堂作品","textPreview":"课堂作品","textChars":4,"textLines":1,"bbox":[875,202,260,28]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":11,"text":"L01","textPreview":"L01","textChars":3,"textLines":1,"bbox":[86,248,64,28]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":11,"text":"开发环境","textPreview":"开发环境","textChars":4,"textLines":1,"bbox":[160,248,270,28]}
+{"kind":"textbox","id":"sh/54zidony","slide":11,"text":"LED、GPIO、工程创建","textPreview":"LED、GPIO、工程创建","textChars":13,"textLines":1,"bbox":[450,248,405,28]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":11,"text":"流水灯程序","textPreview":"流水灯程序","textChars":5,"textLines":1,"bbox":[875,248,315,28]}
+{"kind":"shape","id":"sh/nap4r65w","slide":11,"bbox":[78,284,1120,0]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":11,"text":"L02","textPreview":"L02","textChars":3,"textLines":1,"bbox":[86,298,64,28]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":11,"text":"结构显控","textPreview":"结构显控","textChars":4,"textLines":1,"bbox":[160,298,270,28]}
+{"kind":"textbox","id":"sh/cvixczed","slide":11,"text":"IIC、OLED、模块识别","textPreview":"IIC、OLED、模块识别","textChars":13,"textLines":1,"bbox":[450,298,405,28]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":11,"text":"车载仪表盘","textPreview":"车载仪表盘","textChars":5,"textLines":1,"bbox":[875,298,315,28]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":11,"bbox":[78,334,1120,0]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":11,"text":"L03","textPreview":"L03","textChars":3,"textLines":1,"bbox":[86,348,64,28]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":11,"text":"全向移动","textPreview":"全向移动","textChars":4,"textLines":1,"bbox":[160,348,270,28]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":11,"text":"麦克纳姆轮、PWM","textPreview":"麦克纳姆轮、PWM","textChars":9,"textLines":1,"bbox":[450,348,405,28]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":11,"text":"正方形路径","textPreview":"正方形路径","textChars":5,"textLines":1,"bbox":[875,348,315,28]}
+{"kind":"shape","id":"sh/2t83itgf","slide":11,"bbox":[78,384,1120,0]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":11,"text":"L04","textPreview":"L04","textChars":3,"textLines":1,"bbox":[86,398,64,28]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":11,"text":"遥控通信","textPreview":"遥控通信","textChars":4,"textLines":1,"bbox":[160,398,270,28]}
+{"kind":"textbox","id":"sh/9knih4by","slide":11,"text":"蓝牙、手柄数据","textPreview":"蓝牙、手柄数据","textChars":7,"textLines":1,"bbox":[450,398,405,28]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":11,"text":"底盘遥控","textPreview":"底盘遥控","textChars":4,"textLines":1,"bbox":[875,398,315,28]}
+{"kind":"shape","id":"sh/ra5gbq1o","slide":11,"bbox":[78,434,1120,0]}
+{"kind":"textbox","id":"sh/xs72x4na","slide":11,"text":"L05","textPreview":"L05","textChars":3,"textLines":1,"bbox":[86,448,64,28]}
+{"kind":"textbox","id":"sh/87ed8bat","slide":11,"text":"机械臂","textPreview":"机械臂","textChars":3,"textLines":1,"bbox":[160,448,270,28]}
+{"kind":"textbox","id":"sh/fmlkjm1c","slide":11,"text":"舵机、姿态库","textPreview":"舵机、姿态库","textChars":6,"textLines":1,"bbox":[450,448,405,28]}
+{"kind":"textbox","id":"sh/q1orytsv","slide":11,"text":"连续抓放","textPreview":"连续抓放","textChars":4,"textLines":1,"bbox":[875,448,315,28]}
+{"kind":"shape","id":"sh/1gvy90je","slide":11,"bbox":[78,484,1120,0]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":11,"text":"L06","textPreview":"L06","textChars":3,"textLines":1,"bbox":[86,498,64,28]}
+{"kind":"textbox","id":"sh/je9cvixc","slide":11,"text":"采样协同","textPreview":"采样协同","textChars":4,"textLines":1,"bbox":[160,498,270,28]}
+{"kind":"textbox","id":"sh/qtcj6tov","slide":11,"text":"底盘+机械臂时序","textPreview":"底盘+机械臂时序","textChars":8,"textLines":1,"bbox":[450,498,405,28]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":11,"text":"月壤采样","textPreview":"月壤采样","textChars":4,"textLines":1,"bbox":[875,498,315,28]}
+{"kind":"shape","id":"sh/8v6psfil","slide":11,"bbox":[78,534,1120,0]}
+{"kind":"textbox","id":"sh/w3m94fu1","slide":11,"text":"L07","textPreview":"L07","textChars":3,"textLines":1,"bbox":[86,548,64,28]}
+{"kind":"textbox","id":"sh/loj2t83i","slide":11,"text":"环境监控","textPreview":"环境监控","textChars":4,"textLines":1,"bbox":[160,548,270,28]}
+{"kind":"textbox","id":"sh/ex0nuxc3","slide":11,"text":"温湿度、光照、报警","textPreview":"温湿度、光照、报警","textChars":9,"textLines":1,"bbox":[450,548,405,28]}
+{"kind":"textbox","id":"sh/3itgfmlk","slide":11,"text":"环境面板","textPreview":"环境面板","textChars":4,"textLines":1,"bbox":[875,548,315,28]}
+{"kind":"shape","id":"sh/wb2hwfyx","slide":11,"bbox":[78,584,1120,0]}
+{"kind":"notes","id":"nt/egrw53","slide":11,"text":""}
+{"kind":"slide","id":"sl/35y72y","slide":12,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":40}
+{"kind":"textbox","id":"sh/d0z61032","slide":12,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/29gr2p8n","slide":12,"text":"15节课总览（续）","textPreview":"15节课总览（续）","textChars":9,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/vu9knih4","slide":12,"text":"从感知控制进入综合任务和赛事表达","textPreview":"从感知控制进入综合任务和赛事表达","textChars":16,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/knih4byh","slide":12,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/d8bat47y","slide":12,"text":"火星先锋课程大纲 · 12","textPreview":"火星先锋课程大纲 · 12","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"textbox","id":"sh/2lszqtcj","slide":12,"text":"课时","textPreview":"课时","textChars":2,"textLines":1,"bbox":[88,202,70,28]}
+{"kind":"textbox","id":"sh/v6psfil0","slide":12,"text":"课程主题","textPreview":"课程主题","textChars":4,"textLines":1,"bbox":[160,202,260,28]}
+{"kind":"textbox","id":"sh/kre1w7mp","slide":12,"text":"核心学习","textPreview":"核心学习","textChars":4,"textLines":1,"bbox":[450,202,300,28]}
+{"kind":"textbox","id":"sh/dcbulwva","slide":12,"text":"课堂作品","textPreview":"课堂作品","textChars":4,"textLines":1,"bbox":[875,202,260,28]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":12,"text":"L08","textPreview":"L08","textChars":3,"textLines":1,"bbox":[86,238,64,28]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":12,"text":"识别巡线","textPreview":"识别巡线","textChars":4,"textLines":1,"bbox":[160,238,270,28]}
+{"kind":"textbox","id":"sh/3m94fu18","slide":12,"text":"颜色/红外、PID","textPreview":"颜色/红外、PID","textChars":9,"textLines":1,"bbox":[450,238,405,28]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":12,"text":"稳定巡线车","textPreview":"稳定巡线车","textChars":5,"textLines":1,"bbox":[875,238,315,28]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":12,"bbox":[78,274,1120,0]}
+{"kind":"textbox","id":"sh/sji5snel","slide":12,"text":"L09","textPreview":"L09","textChars":3,"textLines":1,"bbox":[86,285,64,28]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":12,"text":"人机切换","textPreview":"人机切换","textChars":4,"textLines":1,"bbox":[160,285,270,28]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":12,"text":"状态机、路标识别","textPreview":"状态机、路标识别","textChars":8,"textLines":1,"bbox":[450,285,405,28]}
+{"kind":"textbox","id":"sh/hgn29gr2","slide":12,"text":"自动/手动切换","textPreview":"自动/手动切换","textChars":7,"textLines":1,"bbox":[875,285,315,28]}
+{"kind":"shape","id":"sh/svu9knih","slide":12,"bbox":[78,321,1120,0]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":12,"text":"L10","textPreview":"L10","textChars":3,"textLines":1,"bbox":[86,332,64,28]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":12,"text":"能源抢夺","textPreview":"能源抢夺","textChars":4,"textLines":1,"bbox":[160,332,270,28]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":12,"text":"任务分解、路线策略","textPreview":"任务分解、路线策略","textChars":9,"textLines":1,"bbox":[450,332,405,28]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":12,"text":"抢夺任务脚本","textPreview":"抢夺任务脚本","textChars":6,"textLines":1,"bbox":[875,332,315,28]}
+{"kind":"shape","id":"sh/4zidonyd","slide":12,"bbox":[78,368,1120,0]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":12,"text":"L11","textPreview":"L11","textChars":3,"textLines":1,"bbox":[86,379,64,28]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":12,"text":"陨石坑越野","textPreview":"陨石坑越野","textChars":5,"textLines":1,"bbox":[160,379,270,28]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":12,"text":"功率分配、脱困","textPreview":"功率分配、脱困","textChars":7,"textLines":1,"bbox":[450,379,405,28]}
+{"kind":"textbox","id":"sh/83itgfml","slide":12,"text":"越野参数组","textPreview":"越野参数组","textChars":5,"textLines":1,"bbox":[875,379,315,28]}
+{"kind":"shape","id":"sh/xobm58z2","slide":12,"bbox":[78,415,1120,0]}
+{"kind":"textbox","id":"sh/judg7ads","slide":12,"text":"L12","textPreview":"L12","textChars":3,"textLines":1,"bbox":[86,426,64,28]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":12,"text":"基地运输","textPreview":"基地运输","textChars":4,"textLines":1,"bbox":[160,426,270,28]}
+{"kind":"textbox","id":"sh/1032lszq","slide":12,"text":"动作队列、容错","textPreview":"动作队列、容错","textChars":7,"textLines":1,"bbox":[450,426,405,28]}
+{"kind":"textbox","id":"sh/cfa9w3m9","slide":12,"text":"自动运输闭环","textPreview":"自动运输闭环","textChars":6,"textLines":1,"bbox":[875,426,315,28]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":12,"bbox":[78,462,1120,0]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":12,"text":"L13","textPreview":"L13","textChars":3,"textLines":1,"bbox":[86,473,64,28]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":12,"text":"系统Debug","textPreview":"系统Debug","textChars":7,"textLines":1,"bbox":[160,473,270,28]}
+{"kind":"textbox","id":"sh/c7u54zid","slide":12,"text":"日志、二分法、看门狗","textPreview":"日志、二分法、看门狗","textChars":10,"textLines":1,"bbox":[450,473,405,28]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":12,"text":"故障报告","textPreview":"故障报告","textChars":4,"textLines":1,"bbox":[875,473,315,28]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":12,"bbox":[78,509,1120,0]}
+{"kind":"textbox","id":"sh/at47y1kr","slide":12,"text":"L14","textPreview":"L14","textChars":3,"textLines":1,"bbox":[86,520,64,28]}
+{"kind":"textbox","id":"sh/3ex0nuxc","slide":12,"text":"模拟计时赛","textPreview":"模拟计时赛","textChars":5,"textLines":1,"bbox":[160,520,270,28]}
+{"kind":"textbox","id":"sh/szqtcj6t","slide":12,"text":"规则、计时、评分","textPreview":"规则、计时、评分","textChars":8,"textLines":1,"bbox":[450,520,405,28]}
+{"kind":"textbox","id":"sh/lkjm1cfa","slide":12,"text":"正式比赛成绩","textPreview":"正式比赛成绩","textChars":6,"textLines":1,"bbox":[875,520,315,28]}
+{"kind":"shape","id":"sh/ahoza1gv","slide":12,"bbox":[78,556,1120,0]}
+{"kind":"textbox","id":"sh/32lszqtc","slide":12,"text":"L15","textPreview":"L15","textChars":3,"textLines":1,"bbox":[86,567,64,28]}
+{"kind":"textbox","id":"sh/sneloj2t","slide":12,"text":"路演答辩","textPreview":"路演答辩","textChars":4,"textLines":1,"bbox":[160,567,270,28]}
+{"kind":"textbox","id":"sh/l87ed8ba","slide":12,"text":"工程日志、数据展示","textPreview":"工程日志、数据展示","textChars":9,"textLines":1,"bbox":[450,567,405,28]}
+{"kind":"textbox","id":"sh/e9cvixcz","slide":12,"text":"5分钟项目汇报","textPreview":"5分钟项目汇报","textChars":7,"textLines":1,"bbox":[875,567,315,28]}
+{"kind":"shape","id":"sh/3q5o7qpg","slide":12,"bbox":[78,603,1120,0]}
+{"kind":"notes","id":"nt/35y72y","slide":12,"text":""}
+{"kind":"slide","id":"sl/f9zo2l","slide":13,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":11}
+{"kind":"textbox","id":"sh/e1w7mp0b","slide":13,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":13,"text":"教学组织建议","textPreview":"教学组织建议","textChars":6,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":13,"text":"让课堂更适合初一学生的节奏","textPreview":"让课堂更适合初一学生的节奏","textChars":13,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/7adsji5s","slide":13,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/epkzupwb","slide":13,"text":"火星先锋课程大纲 · 13","textPreview":"火星先锋课程大纲 · 13","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":13,"bbox":[86,220,330,230]}
+{"kind":"shape","id":"sh/wval87ed","slide":13,"bbox":[86,220,5,230]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":13,"text":"小组分工","textPreview":"小组分工","textChars":4,"textLines":1,"bbox":[108,238,290,30]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":13,"text":"建议3-4人一组\n驾驶员：操作与测试\n程序员：代码与调参\n工程师：接线与记录\n讲解员：整理汇报","textPreview":"建议3-4人一组 | 驾驶员：操作与测试 | 程序员：代码与调参 | 工程师：接线与记录 | 讲解员：整理汇报","textChars":47,"textLines":5,"bbox":[108,278,290,158]}
+{"kind":"shape","id":"sh/wra5gbq1","slide":13,"bbox":[474,220,330,230]}
+{"kind":"shape","id":"sh/lc7u54zi","slide":13,"bbox":[474,220,5,230]}
+{"kind":"textbox","id":"sh/eloj2t83","slide":13,"text":"课堂节奏","textPreview":"课堂节奏","textChars":4,"textLines":1,"bbox":[496,238,290,30]}
+{"kind":"textbox","id":"sh/36hcrmhk","slide":13,"text":"10分钟情境导入\n15分钟知识拆解\n25分钟动手任务\n10分钟复盘展示","textPreview":"10分钟情境导入 | 15分钟知识拆解 | 25分钟动手任务 | 10分钟复盘展示","textChars":35,"textLines":4,"bbox":[496,278,290,158]}
+{"kind":"shape","id":"sh/wfyxobm5","slide":13,"bbox":[862,220,330,230]}
+{"kind":"shape","id":"sh/l0rqd4vm","slide":13,"bbox":[862,220,5,230]}
+{"kind":"textbox","id":"sh/ed8bat47","slide":13,"text":"安全与管理","textPreview":"安全与管理","textChars":5,"textLines":1,"bbox":[884,238,290,30]}
+{"kind":"textbox","id":"sh/7u54zido","slide":13,"text":"上电前检查接线\n机械臂运动区不伸手\n锂电池规范充放电\n每节课保留工程日志","textPreview":"上电前检查接线 | 机械臂运动区不伸手 | 锂电池规范充放电 | 每节课保留工程日志","textChars":36,"textLines":4,"bbox":[884,278,290,158]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":13,"text":"教师重点：不要只看“有没有跑起来”，更要看学生是否能解释为什么这样设计。","textPreview":"教师重点：不要只看“有没有跑起来”，更要看学生是否能解释为什么这样设计。","textChars":36,"textLines":1,"bbox":[124,520,1020,42]}
+{"kind":"notes","id":"nt/f9zo2l","slide":13,"text":""}
+{"kind":"slide","id":"sl/v2y4z3","slide":14,"title":"MARS PIONEER | 初一航天机器人课程","textShapes":16}
+{"kind":"textbox","id":"sh/4zidonyd","slide":14,"text":"MARS PIONEER | 初一航天机器人课程","textPreview":"MARS PIONEER | 初一航天机器人课程","textChars":24,"textLines":1,"bbox":[64,38,620,28]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":14,"text":"评价方式","textPreview":"评价方式","textChars":4,"textLines":1,"bbox":[64,78,790,56]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":14,"text":"用过程性证据评价工程学习，而不只看最终比赛名次","textPreview":"用过程性证据评价工程学习，而不只看最终比赛名次","textChars":23,"textLines":1,"bbox":[66,136,850,34]}
+{"kind":"shape","id":"sh/xc3ylc7u","slide":14,"bbox":[64,180,1152,0]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":14,"text":"火星先锋课程大纲 · 14","textPreview":"火星先锋课程大纲 · 14","textChars":13,"textLines":1,"bbox":[1030,674,190,24]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":14,"bbox":[116,220,1048,60]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":14,"text":"硬件装调","textPreview":"硬件装调","textChars":4,"textLines":1,"bbox":[146,235,180,28]}
+{"kind":"textbox","id":"sh/x0nuxc3y","slide":14,"text":"模块识别、接线规范、上电自检","textPreview":"模块识别、接线规范、上电自检","textChars":14,"textLines":1,"bbox":[352,237,620,28]}
+{"kind":"textbox","id":"sh/4fu18jqh","slide":14,"text":"20%","textPreview":"20%","textChars":3,"textLines":1,"bbox":[1054,235,70,28]}
+{"kind":"shape","id":"sh/6dcbulwv","slide":14,"bbox":[116,302,1048,60]}
+{"kind":"textbox","id":"sh/vy90je9c","slide":14,"text":"程序实现","textPreview":"程序实现","textChars":4,"textLines":1,"bbox":[146,317,180,28]}
+{"kind":"textbox","id":"sh/oj2t83it","slide":14,"text":"功能完整、代码结构、调试记录","textPreview":"功能完整、代码结构、调试记录","textChars":14,"textLines":1,"bbox":[352,319,620,28]}
+{"kind":"textbox","id":"sh/d4vmtwra","slide":14,"text":"30%","textPreview":"30%","textChars":3,"textLines":1,"bbox":[1054,317,70,28]}
+{"kind":"shape","id":"sh/61032lsz","slide":14,"bbox":[116,384,1048,60]}
+{"kind":"textbox","id":"sh/vmtwra5g","slide":14,"text":"任务表现","textPreview":"任务表现","textChars":4,"textLines":1,"bbox":[146,399,180,28]}
+{"kind":"textbox","id":"sh/o7qpg3ex","slide":14,"text":"巡线、抓取、运输、赛事得分","textPreview":"巡线、抓取、运输、赛事得分","textChars":13,"textLines":1,"bbox":[352,401,620,28]}
+{"kind":"textbox","id":"sh/dsji5sne","slide":14,"text":"25%","textPreview":"25%","textChars":3,"textLines":1,"bbox":[1054,399,70,28]}
+{"kind":"shape","id":"sh/6tovahoz","slide":14,"bbox":[116,466,1048,60]}
+{"kind":"textbox","id":"sh/vahoza1g","slide":14,"text":"工程表达","textPreview":"工程表达","textChars":4,"textLines":1,"bbox":[146,481,180,28]}
+{"kind":"textbox","id":"sh/r65wjudg","slide":14,"text":"日志、数据、复盘、答辩表现","textPreview":"日志、数据、复盘、答辩表现","textChars":13,"textLines":1,"bbox":[352,483,620,28]}
+{"kind":"textbox","id":"sh/ylc7u54z","slide":14,"text":"25%","textPreview":"25%","textChars":3,"textLines":1,"bbox":[1054,481,70,28]}
+{"kind":"notes","id":"nt/v2y4z3","slide":14,"text":""}
+{"kind":"slide","id":"sl/qxy8q9","slide":15,"title":"课程最终画像","textShapes":3}
+{"kind":"shape","id":"sh/re1w7mp0","slide":15,"bbox":[0,0,1280,720]}
+{"kind":"textbox","id":"sh/2t83itgf","slide":15,"text":"课程最终画像","textPreview":"课程最终画像","textChars":6,"textLines":1,"bbox":[82,110,600,62]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":15,"text":"学生不只是“拼好一辆车”，而是能用工程语言说明：它如何移动、如何感知、如何决策、如何完成一次火星任务。","textPreview":"学生不只是“拼好一辆车”，而是能用工程语言说明：它如何移动、如何感知、如何决策、如何完成一次火星任务。","textChars":51,"textLines":1,"bbox":[86,210,710,112]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":15,"text":"建议交付：学生工程日志、任务演示视频、课堂代码包、5分钟项目路演PPT。","textPreview":"建议交付：学生工程日志、任务演示视频、课堂代码包、5分钟项目路演PPT。","textChars":36,"textLines":1,"bbox":[88,560,870,34]}
+{"kind":"image","id":"im/t83itgfm","slide":15,"name":"","alt":"火星先锋3D渲染结尾图","bbox":[0,0,1280,720]}
+{"kind":"notes","id":"nt/qxy8q9","slide":15,"text":""}
