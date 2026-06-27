@@ -35,6 +35,7 @@ import { spaceTargets } from './spaceTargets.js';
 import './styles.css';
 
 const targets = spaceTargets;
+const assetPath = (url) => `${import.meta.env.BASE_URL}${url.replace(/^\//, '')}`;
 
 const modules = [
   { id: 'orbit', name: '轨道仿真', icon: Satellite },
@@ -233,11 +234,11 @@ function SpaceScene({ activeModule, speed, paused, selectedSeq, onSelect, resetK
     scene.add(rimLight);
 
     const textureLoader = new THREE.TextureLoader();
-    const dayTexture = textureLoader.load('/textures/earth-day.jpg');
-    const nightTexture = textureLoader.load('/textures/earth-night.jpg');
-    const cloudTexture = textureLoader.load('/textures/earth-clouds.png');
-    const bumpTexture = textureLoader.load('/textures/earth-bump.jpg');
-    const specularTexture = textureLoader.load('/textures/earth-specular.jpg');
+    const dayTexture = textureLoader.load(assetPath('/textures/earth-day.jpg'));
+    const nightTexture = textureLoader.load(assetPath('/textures/earth-night.jpg'));
+    const cloudTexture = textureLoader.load(assetPath('/textures/earth-clouds.png'));
+    const bumpTexture = textureLoader.load(assetPath('/textures/earth-bump.jpg'));
+    const specularTexture = textureLoader.load(assetPath('/textures/earth-specular.jpg'));
     dayTexture.colorSpace = THREE.SRGBColorSpace;
     nightTexture.colorSpace = THREE.SRGBColorSpace;
     cloudTexture.colorSpace = THREE.SRGBColorSpace;
@@ -482,7 +483,7 @@ function SpaceScene({ activeModule, speed, paused, selectedSeq, onSelect, resetK
       const asset = modelAssetForTarget(target);
       if (!asset) return;
       gltfLoader.load(
-        asset.url,
+        assetPath(asset.url),
         (gltf) => {
           if (loadedAttitudeSeq !== target.seq) return;
           attitudeModel.clear();
@@ -958,7 +959,7 @@ function TargetModelPreview({ target, interactive = false, onOpen }) {
     if (asset) {
       const loader = new GLTFLoader();
       loader.load(
-        asset.url,
+        assetPath(asset.url),
         (gltf) => {
           model.clear();
           const loadedModel = gltf.scene;
